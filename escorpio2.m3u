@@ -10,20 +10,11 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png" group-title="DEPORTES",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o"group-title="DEPORTES",Tigo Sports
-http://190.149.66.90:16000/play/a03j/index.m3u8   
-
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" group-title="DEPORTES", FS PREMIUM
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Xn1UPLB.png"group-title="DEPORTES",ESPN 4 
 http://200.41.79.165:8000/play/a05r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://servicesdown.co/img/espn-logo.png" group-title="DEPORTES",ESPN 
-http://204.157.255.135:20001/play/a066/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png" group-title="DEPORTES", ESPN 2 LATINO 
-http://170.83.242.8:5350/play/a00t
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-3_m.png" group-title="DEPORTES",ESPN 3 
 http://191.102.90.97:8000/play/a079/index.m3u8
@@ -55,7 +46,7 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="DEPORTES",FOX SPORTS 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3-1
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
@@ -106,22 +97,13 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #EXTINF:-1  group-title="DEPORTES", Fox Sports Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-chno="700" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg"  group-title="DEPORTES",Futv HD
-http://168.181.161.24:8000/play/a010
-
-#EXTINF:-1 tvg-chno="701" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg"  group-title="DEPORTES",Futv HD Opc 2
+#EXTINF:-1 tvg-chno="701" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg"  group-title="DEPORTES",Futv HD
 http://181.189.243.254:8000/play/a0t3/index.m3u8
 
-#EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png"  group-title="DEPORTES",Tigo Sports CR Opc 2
-http://168.181.161.24:8000/play/a00k
-
-#EXTINF:-1 tvg-chno="707" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png"  group-title="DEPORTES",TD + HD Opc 2
+#EXTINF:-1 tvg-chno="707" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png"  group-title="DEPORTES",TD + HD 
 http://181.189.243.254:8000/play/a0o9/index.m3u8
 
-#EXTINF:-1 tvg-chno="708" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png"  group-title="DEPORTES",TD + 2 HD
-http://168.228.194.32:58001/play/a00w/index.m3u8
-
-#EXTINF:-1 tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png"  group-title="DEPORTES",TD + 2 HD Opc 2
+#EXTINF:-1 tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png"  group-title="DEPORTES",TD + 2 HD
 http://181.189.243.254:8000/play/a0oa/index.m3u8
 
 #EXTINF:-1 tvg-chno="710" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN HD
@@ -145,23 +127,6 @@ http://45.228.234.162:24000/play/a08p/index.m3u8
 #EXTINF:-1 tvg-chno="718" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",Fox Sports 3 HD
 http://45.228.234.162:24000/play/a07u/index.m3u8
 
-#EXTINF:-1 tvg-chno="720" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN Sur
-http://45.170.241.28:4000/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-chno="721" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN 2 Sur
-http://45.170.241.28:4000/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-chno="722" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN 3 Sur 
-http://45.170.241.28:4000/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-chno="723" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN 4 Sur
-http://45.170.241.28:4000/play/a011/index.m3u8
-
-#EXTINF:-1 tvg-chno="724" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",Fox Sports 1 Sur
-http://45.170.241.28:4000/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-chno="725" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",Fox Sports 2 Sur
-http://45.170.241.28:4000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-chno="728" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1608.png"  group-title="DEPORTES",Fox Sports 2 MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
@@ -172,206 +137,53 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
 #EXTINF:-1 tvg-chno="754" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg"  group-title="DEPORTES",Sky Sports Liga Española 🇺🇸
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 
-#EXTINF:-1 tvg-chno="757" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",Movistar + La Liga 🇪🇦
-http://5.255.90.184:2002/play/a02f
-
-#EXTINF:-1 tvg-chno="758" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",Movistar + Bundesliga 🇪🇦
-http://5.255.90.184:2002/play/a01f
-
 #EXTINF:-1 tvg-chno="780" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",DeporTV 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
 
-
-
-
-
-#EXTINF:-1  group-title="DEPORTES" , ESPN U
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139350.ts
-#EXTINF:-1  group-title="DEPORTES", ESPN U USA
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/112360.ts
-#EXTINF:-1  group-title="DEPORTES", FIGHT NETWORK
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/52463.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SOCCER PLUS US
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139340.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 1 US
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139341.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2 US
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139342.ts
-#EXTINF:-1  group-title="DEPORTES",FS1
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94156.ts
-#EXTINF:-1  group-title="DEPORTES",FS2
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94155.ts
-#EXTINF:-1  group-title="DEPORTES",BT SPORT 1
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146334.ts
-#EXTINF:-1  group-title="DEPORTES",BT SPORT ESPN
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146337.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR LA LIGA
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/87713.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR LA LIGA (opcion2)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82818.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR LA LIGA 1 (SOLO EVENTOS)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/85794.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR LA LIGA 2 (SOLO EVENTOS)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/151556.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR LA LIGA 3 (SOLO EVENTOS)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/151557.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR LA LIGA FHD
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82817.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/49057.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES FHD
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/49058.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 1  (SUR)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/85775.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2 (SUR)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82237.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2 FHD (MX)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48980.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 2 HD (MX)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48961.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 3 FHD (SUR)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82238.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 3 HD (ECU)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/324630.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 3 HD (MX)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/49002.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS 3 HD (SUR)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48963.ts
-#EXTINF:-1  group-title="DEPORTES",FOX SPORTS PREMIUM
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/164581.ts
-#EXTINF:-1  group-title="DEPORTES",BEIN SPORTS 3
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139408.ts
-#EXTINF:-1  group-title="DEPORTES",BEIN SPORTS ES
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94112.ts
-#EXTINF:-1  group-title="DEPORTES",BEIN SPORTS N
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48958.ts
-#EXTINF:-1  group-title="DEPORTES",BEIN SPORTS N opcion 2
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/91803.ts
-#EXTINF:-1  group-title="DEPORTES",SSC EXTRA 1 SD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/233286
-#EXTINF:-1  group-title="DEPORTES",SSC EXTRA 2
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222438
-#EXTINF:-1  group-title="DEPORTES",SSC EXTRA 2 SD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/233287
-#EXTINF:-1  group-title="DEPORTES",SSC 1 HD Backup
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/227169
-#EXTINF:-1  group-title="DEPORTES",SSC 1 HD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222440
-#EXTINF:-1  group-title="DEPORTES",SSC 2 HD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222441
-#EXTINF:-1  group-title="DEPORTES",SSC 3 HD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222442
-#EXTINF:-1  group-title="DEPORTES",SSC 3 SD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222443
-#EXTINF:-1  group-title="DEPORTES",SSC 5 HD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222445
-#EXTINF:-1  group-title="DEPORTES",SSC 6 HD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222446
-#EXTINF:-1  group-title="DEPORTES",SSC 7 HD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222447
-#EXTINF:-1  group-title="DEPORTES",BT-sports.1
-http://89.47.232.72:8080/live/Chris/Chris/4449.ts
-#EXTINF:-1  group-title="DEPORTES",BT-sports.2
-http://89.47.232.72:8080/live/Chris/Chris/4450.ts
-#EXTINF:-1  group-title="DEPORTES",BT-sports.3
-http://89.47.232.72:8080/live/Chris/Chris/4451.ts
-#EXTINF:-1  group-title="DEPORTES",BT-sports.4
-http://89.47.232.72:8080/live/Chris/Chris/4461.ts
-#EXTINF:-1  group-title="DEPORTES",BT-sports.5
-http://89.47.232.72:8080/live/Chris/Chris/4462.ts
-#EXTINF:-1  group-title="DEPORTES",BT-sports.6
-http://89.47.232.72:8080/live/Chris/Chris/4463.ts
-#EXTINF:-1  group-title="DEPORTES",BT-sports.7
-http://89.47.232.72:8080/live/Chris/Chris/4464.ts
-#EXTINF:-1  group-title="DEPORTES",BT-sports.9
-http://89.47.232.72:8080/live/Chris/Chris/4466.ts
-#EXTINF:-1  group-title="DEPORTES",BT-sports.10
-http://89.47.232.72:8080/live/Chris/Chris/4467.ts
-#EXTINF:-1  group-title="DEPORTES",Skysports-MainEvent.HD
-http://89.47.232.72:8080/live/Chris/Chris/5542.ts
-#EXTINF:-1  group-title="DEPORTES",Skysports-Football.HD
-http://89.47.232.72:8080/live/Chris/Chris/5540.ts
-#EXTINF:-1  group-title="DEPORTES",Skysports-Premier.Ligue.HD
-http://89.47.232.72:8080/live/Chris/Chris/5546.ts
-#EXTINF:-1  group-title="DEPORTES",Skysports-Arena.HD
-http://89.47.232.72:8080/live/Chris/Chris/5537.ts
-#EXTINF:-1  group-title="DEPORTES",Skysports-Cricket.HD
-http://89.47.232.72:8080/live/Chris/Chris/5538.ts
-#EXTINF:-1  group-title="DEPORTES",Skysports-F1.HD
-http://89.47.232.72:8080/live/Chris/Chris/5539.ts
-#EXTINF:-1  group-title="DEPORTES",Skysports-Golf.HD
-http://89.47.232.72:8080/live/Chris/Chris/5541.ts
-#EXTINF:-1  group-title="DEPORTES",Skysports-Mix
-http://89.47.232.72:8080/live/Chris/Chris/5543.ts
-#EXTINF:-1  group-title="DEPORTES",Skyspots-Racing
-http://89.47.232.72:8080/live/Chris/Chris/5547.ts
 #EXTINF:-1  group-title="DEPORTES",ASTRO_CRICKET
 http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
-#EXTINF:-1  group-title="DEPORTES",DSTV Cricket
-http://89.47.232.72:8080/live/Chris/Chris/531516.ts
-#EXTINF:-1  group-title="DEPORTES",WILLOWXTRA CRICKET
-http://ky-iptv.com:80/live/chris7676/chris7676/1116408.ts
-#EXTINF:-1  group-title="DEPORTES",ESPN 1
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93032.ts
-#EXTINF:-1  group-title="DEPORTES",ESPN 2
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
-#EXTINF:-1  group-title="DEPORTES" ,FOX Sports 2
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
-#EXTINF:-1   group-title="DEPORTES",Fight Network
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93035.ts
 
-#EXTINF:-1   group-title="DEPORTES",Persiana Sports
-http://51.210.199.32/hls/stream.m3u8
 #EXTINF:-1   group-title="DEPORTES",Match!_Country HD
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:-1   group-title="DEPORTES",Viasat_Sport_HD+
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:-1  group-title="DEPORTES",MAT4_1
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1   group-title="DEPORTES",TVRI_SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1   group-title="DEPORTES",RTV SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:-1   group-title="DEPORTES",J Sports 1
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
-#EXTINF:-1   group-title="DEPORTES",J Sports 2
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
-
-#EXTINF:-1   group-title="DEPORTES",ESPN 2
-http://170.83.242.8:5350/play/a02u
-
 
 #EXTINF:-1   group-title="DEPORTES",Fox Sports Premium MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
 
-
 #EXTINF:-1   group-title="DEPORTES",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
 #EXTINF:-1   group-title="DEPORTES",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:-1   group-title="DEPORTES",SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-
 #EXTINF:-1   group-title="DEPORTES",FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
+
 #EXTINF:-1   group-title="DEPORTES",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
 #EXTINF:-1   group-title="DEPORTES",X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
+
 #EXTINF:-1   group-title="DEPORTES",X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+
 #EXTINF:-1   group-title="DEPORTES",ESPN 🇦🇷
 http://191.102.90.97:8000/play/a08b/index.m3u8
-#EXTINF:-1   group-title="DEPORTES",ESPN 🇦🇷
-http://170.83.242.8:5350/play/a00u
-#EXTINF:-1   group-title="DEPORTES",ESPN 2 LATIN 🇦🇷
-http://170.83.242.8:5350/play/a00t
-#EXTINF:-1   group-title="DEPORTES",FOX SPORTS 3 🇦🇷
-http://170.83.242.155:5350/play/a014
-
 
 
 
