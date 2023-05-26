@@ -1,67 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1, ESPN ARG 🇦🇷
-http://170.83.242.8:5350/play/a00u
-
-#EXTINF:-1, SKY SPORTS 🇲🇽
-http://hidra.live:80/zvwfwyhz/z7680ifYPc/303757
-
-#EXTINF:-1, SKY SPORTS 🇲🇽
-http://31.42.185.216:8000/robertomartinez/MRCUsKskoh/140952
-
-#EXTINF:-1, SKY SPORTS 🇲🇽
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/3848
-
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantahd
-
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-http://94.158.54.107/94/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://94.158.54.107/95/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantaplus
-
-#EXTINF:-1,Setanta Ukraine + 🇺🇦
-http://95.67.12.89:9013
-
-#EXTINF:-1,BEIN 1 🇵🇭
-http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
-
-#EXTINF:-1,BEIN 1 🇦🇺
-http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
-
-#EXTINF:-1,BEIN 1 🇵🇭
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282772
-
-#EXTINF:-1,BEIN 2 🇵🇭
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282773
-
-#EXTINF:-1, NOVA Sport 3 🇨🇿 
-http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1, POST SPORTS 🇮🇶
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/4149
-
-#EXTINF:-1, ASO SPORTS 🇮🇶
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/4151
-
-#EXTINF:-1, ASO SPORTS 🇮🇶
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/193376
-
-#EXTINF:-1, ASTERA SPORTS 🇮🇶
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/147456
-
-#EXTINF:-1, DASYNIA SPORTS 🇮🇶
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/4150
-
-#EXTINF:-1, DAZN LaLiga 🇪🇸
-http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
-
 #EXTINF:-1, ESPN 🇦🇷
 http://45.190.13.50:8002/play/a01f/index.m3u8
 
@@ -116,9 +55,6 @@ http://181.78.1.158:8000/play/a01j/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD 🇦🇷
 http://181.78.11.117:8000/play/a08m/index.m3u8
 
-#EXTINF:-1, FOX SPORTS 3 🇦🇷
-http://170.83.242.155:5350/play/a014
-
 #EXTINF:-1,Fox Sports 3 🇦🇷
 http://181.78.1.158:8000/play/a01k/index.m3u8
 
@@ -160,6 +96,44 @@ http://77.81.117.202:8000/play/ES_gol_play_sd/index.m3u8
 
 #EXTINF:-1, GOL PLAY 🇪🇸
 http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
+
+#EXTINF:-1, SKY SPORTS 🇲🇽
+http://hidra.live:80/zvwfwyhz/z7680ifYPc/303757
+
+#EXTINF:-1, SKY SPORTS 🇲🇽
+http://31.42.185.216:8000/robertomartinez/MRCUsKskoh/140952
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://94.158.54.107/94/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Setanta Ukraine + 🇺🇦
+http://95.67.12.89:9013
+
+#EXTINF:-1,BEIN 1 🇵🇭
+http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
+
+#EXTINF:-1,BEIN 1 🇦🇺
+http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
+
+#EXTINF:-1,BEIN 1 🇵🇭
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282772
+
+#EXTINF:-1,BEIN 2 🇵🇭
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282773
+
+#EXTINF:-1, NOVA Sport 3 🇨🇿 
+http://84.42.140.147:8890/hdmi
+
+#EXTINF:-1, ASO SPORTS 🇮🇶
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/193376
+
+#EXTINF:-1, ASTERA SPORTS 🇮🇶
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/147456
+
+#EXTINF:-1, DAZN LaLiga 🇪🇸
+http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
+
+
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
