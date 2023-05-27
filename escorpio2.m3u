@@ -131,136 +131,136 @@ http://45.228.234.162:24000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-chno="728" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1608.png"  group-title="DEPORTES",Fox Sports 2 MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
 
-#EXTINF:-1 tvg-chno="729" tvg-logo="https://www.holamujer.cl/wp-content/uploads/2020/06/20-FOX-SPORTS-PREMIUM-768x530.png"  group-title="DEPORTES",Fox Sports Premium MX
+#EXTINF:-1 tvg-logo="https://www.holamujer.cl/wp-content/uploads/2020/06/20-FOX-SPORTS-PREMIUM-768x530.png"  group-title="DEPORTES",Fox Sports Premium MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
 
-#EXTINF:-1 tvg-chno="754" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg"  group-title="DEPORTES",Sky Sports Liga Española 🇺🇸
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg"  group-title="DEPORTES",Sky Sports Liga Española 🇺🇸
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 
-#EXTINF:-1 tvg-chno="780" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",DeporTV 🇦🇷
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",DeporTV 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
 
-#EXTINF:-1  group-title="DEPORTES",ASTRO_CRICKET
+#EXTINF:-1  group-title="DEPORTES", ASTRO_CRICKET
 http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",Match!_Country HD
+#EXTINF:-1  group-title="DEPORTES", Match!_Country HD
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",Viasat_Sport_HD+
+#EXTINF:-1  group-title="DEPORTES", Viasat_Sport_HD+
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1  group-title="DEPORTES",MAT4_1
+#EXTINF:-1  group-title="DEPORTES", MAT4_1
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",TVRI_SPORT HD
+#EXTINF:-1  group-title="DEPORTES", TVRI_SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",RTV SPORT 🇸🇲
+#EXTINF:-1  group-title="DEPORTES", RTV SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",Fox Sports Premium MX
+#EXTINF:-1  group-title="DEPORTES", Fox Sports Premium MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",Tennis Channel
+#EXTINF:-1  group-title="DEPORTES", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",Tennis Channel
+#EXTINF:-1  group-title="DEPORTES", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",SPORTS TV 🇹🇷
+#EXTINF:-1  group-title="DEPORTES", SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",FIGHT BOX HD
+#EXTINF:-1  group-title="DEPORTES", FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",One Golf
+#EXTINF:-1  group-title="DEPORTES", One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",X SPORT
+#EXTINF:-1  group-title="DEPORTES", X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",X SPORT PLUS
+#EXTINF:-1  group-title="DEPORTES", X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 
-#EXTINF:-1   group-title="DEPORTES",ESPN 🇦🇷
+#EXTINF:-1  group-title="DEPORTES", ESPN 🇦🇷
 http://191.102.90.97:8000/play/a08b/index.m3u8
 
-#EXTINF:-1, M+ LaLigaTV 🇪🇸
+#EXTINF:-1  group-title="DEPORTES", M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
+#EXTINF:-1  group-title="DEPORTES", ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
 
-#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
+#EXTINF:-1  group-title="DEPORTES", DIRECTV SPORT 2 🇦🇷
 http://190.83.60.34:1414/play/a06c
 
-#EXTINF:-1, MAX SPORT 4 🇧🇬
+#EXTINF:-1  group-title="DEPORTES", MAX SPORT 4 🇧🇬
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
 
-#EXTINF:-1, ESPN DEPORTES 🇺🇸 
+#EXTINF:-1  group-title="DEPORTES", ESPN DEPORTES 🇺🇸 
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281417
 
-#EXTINF:-1, ESPN DEPORTES 🇺🇸 
+#EXTINF:-1  group-title="DEPORTES", ESPN DEPORTES 🇺🇸 
 http://likea8bitboss.xyz:80/tquad/6305812479/5935
 
-#EXTINF:-1, ESPN + 🇺🇸 
+#EXTINF:-1  group-title="DEPORTES", ESPN + 🇺🇸 
 http://45.190.13.50:8000/play/a040/index.m3u8
 
-#EXTINF:-1,PRIMA SPORT 1 🇷🇴
+#EXTINF:-1  group-title="DEPORTES", PRIMA SPORT 1 🇷🇴
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 
-#EXTINF:-1, LALIGA TV 🇬🇧
+#EXTINF:-1  group-title="DEPORTES", LALIGA TV 🇬🇧
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197711
 
-#EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
+#EXTINF:-1  group-title="DEPORTES", SUPERSPORT LALIGA 🇿🇦
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/194358
 
-#EXTINF:-1, ARENA SPORT 6 🇭🇷
+#EXTINF:-1  group-title="DEPORTES", ARENA SPORT 6 🇭🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10961
 
-#EXTINF:-1, ARENA SPORT 6 🇭🇷
+#EXTINF:-1  group-title="DEPORTES", ARENA SPORT 6 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225662.m3u8
 
-#EXTINF:-1, S SPORT 🇹🇷
+#EXTINF:-1  group-title="DEPORTES", S SPORT 🇹🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1753
 
-#EXTINF:-1, S SPORT 2 🇹🇷
+#EXTINF:-1  group-title="DEPORTES", S SPORT 2 🇹🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10167
 
-#EXTINF:-1, SPILER 2 🇭🇺
+#EXTINF:-1  group-title="DEPORTES", SPILER 2 🇭🇺
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/77769
 
-#EXTINF:-1, AYASSPORT 🇶🇦
+#EXTINF:-1  group-title="DEPORTES", AYASSPORT 🇶🇦
 https://af.ayassport.ir/hls2/aiosport.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1 🇶🇦
+#EXTINF:-1  group-title="DEPORTES", BEIN SPORTS 1 🇶🇦
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/100
 
-#EXTINF:-1, A SPORTS 🇮🇳
+#EXTINF:-1  group-title="DEPORTES", A SPORTS 🇮🇳
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295025
 
-#EXTINF:-1, MTV INDIA 🇮🇳
+#EXTINF:-1  group-title="DEPORTES", MTV INDIA 🇮🇳
 https://yupplivefragcp6.yuppcdn.net/050523/smil:mtvau.smil/playlist.m3u8
 
-#EXTINF:-1,DAZN 1 BAR 🇩🇪
+#EXTINF:-1  group-title="DEPORTES", DAZN 1 BAR 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
 
-#EXTINF:-1,DAZN 2 BAR 🇩🇪
+#EXTINF:-1  group-title="DEPORTES", DAZN 2 BAR 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
 
-#EXTINF:-1,DAZN 2 🇩🇪
+#EXTINF:-1  group-title="DEPORTES", DAZN 2 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
 
-#EXTINF:-1, CBC SPORTS 🇦🇿
+#EXTINF:-1  group-title="DEPORTES", CBC SPORTS 🇦🇿
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290202
 
-#EXTINF:-1, BELARUS 5 🇧🇾
+#EXTINF:-1  group-title="DEPORTES", BELARUS 5 🇧🇾
 https://kinescope.io/203407780/master.m3u8
 
-#EXTINF:-1, K1 SPORT 🇦🇱
+#EXTINF:-1  group-title="DEPORTES", K1 SPORT 🇦🇱
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1863
 
-#EXTINF:-1, SUPERSSPORT 2 🇦🇱
+#EXTINF:-1  group-title="DEPORTES", SUPERSSPORT 2 🇦🇱
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1312
 
 
