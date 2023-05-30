@@ -1,6 +1,58 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="DEPORTES", ESPN 🇦🇷
+http://45.190.13.50:8002/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 🇦🇷
+http://45.190.13.50:8002/play/a01k/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD 🇦🇷
+http://181.119.66.30:8000/play/03/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA HD 🇦🇷
+http://181.119.66.30:8000/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN HD 🇦🇷
+http://181.119.66.30:8000/play/02/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN HD 🇦🇷
+http://181.78.11.117:8000/play/a07o/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD 🇦🇷
+http://181.78.11.117:8000/play/a08c/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://181.78.11.117:8000/play/a040/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD 🇦🇷
+http://181.78.11.117:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN HD 🇦🇷
+http://181.78.1.158:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 🇦🇷
+http://181.78.1.158:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 1 HD 🇦🇷
+http://181.78.11.117:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 🇦🇷
+http://181.78.1.158:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD 🇦🇷
+http://181.78.11.117:8000/play/a08m/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 🇦🇷
+http://181.78.1.158:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS 2 🇦🇷
+http://181.78.1.158:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TIGO SPORTS 🇦🇷
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080451967829327872/SS4LrhOa_400x400.jpg" group-title="DEPORTES", AMERICA SPORTS
 https://ythls.onrender.com/channel/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
 
