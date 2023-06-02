@@ -1,5 +1,52 @@
 #EXTM3U
 
+#EXTINF:-1, M+ LaLiga 🇪🇸
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269466
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://94.158.54.107/95/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Setanta_Sports_2_HD 🇷🇺
+http://49.12.133.216:8000/play/a003/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_2_HD 🇷🇺
+http://95.216.6.244:8000/play/a003/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_2_HD 🇷🇺
+http://edge05.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+
+#EXTINF:-1,Setanta Sports 2 🇰🇿
+http://edge05.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_720p_3500kbps.m3u8
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://46.10.218.219:8000/play/a05n
+
+#EXTINF:-1,MAX sport 4 🇧🇬
+http://83.228.75.166:8000/play/a0e7
+
+#EXTINF:-1,MAX sport 4 🇧🇬
+http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/89074
+
+#EXTINF:-1, Eleven 4 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/2020832066?profile=pass
+
+#EXTINF:-1, M+ LaLigaTV 🇪🇸
+http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
+
+#EXTINF:-1, BEIN 1 🇫🇷
+https://tinyurl.com/2k9wbwtd
+
+#EXTINF:-1, BEIN 2 🇫🇷
+https://tinyurl.com/2gcm94e5
+
+#EXTINF:-1, BEIN 3 🇫🇷
+https://tinyurl.com/2lv9csb2
+
+#EXTINF:-1, DIRECTV SPORT 🇦🇷
+http://45.190.13.50:8000/play/a03v/index.m3u8
+
+#EXTINF:-1, Direct tv sport + 🇦🇷
+http://190.83.60.34:1414/play/a06b
 
 #EXTINF:-1, ESPN 🇦🇷
 http://45.190.13.50:8002/play/a01f/index.m3u8
