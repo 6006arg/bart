@@ -1,4 +1,84 @@
 #EXTM3U
+#EXTINF:-1,A&E HD
+http://177.93.45.108:8000/play/a00k/index.m3u8
+#EXTINF:-1,AMC HD
+http://177.93.45.108:8000/play/a00v/index.m3u8
+#EXTINF:-1,AXN HD
+http://177.93.45.108:8000/play/a00n/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://177.93.45.108:8000/play/a00y/index.m3u8
+#EXTINF:-1,CARACOL
+http://177.93.45.108:8000/play/a01f/index.m3u8
+#EXTINF:-1,CRISTOVISION
+http://177.93.45.108:8000/play/a01j/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://177.93.45.108:8000/play/a00u/index.m3u8
+#EXTINF:-1,DHE HD
+http://177.93.45.108:8000/play/a011/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://177.93.45.108:8000/play/a016/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://177.93.45.108:8000/play/a01h/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://177.93.45.108:8000/play/a009/index.m3u8
+#EXTINF:-1,Discovery HD
+http://177.93.45.108:8000/play/a012/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+
+http://177.93.45.108:8000/play/a008/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://177.93.45.108:8000/play/a00a/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://177.93.45.108:8000/play/a00t/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://177.93.45.108:8000/play/a00o/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://177.93.45.108:8000/play/a00d/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://177.93.45.108:8000/play/a00w/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.93.45.108:8000/play/a00r/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://177.93.45.108:8000/play/a00e/index.m3u8
+#EXTINF:-1,FX HD
+http://177.93.45.108:8000/play/a00f/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://177.93.45.108:8000/play/a013/index.m3u8
+#EXTINF:-1,HGTV
+http://177.93.45.108:8000/play/a017/index.m3u8
+#EXTINF:-1,History 2 HD
+http://177.93.45.108:8000/play/a014/index.m3u8
+#EXTINF:-1,History Channel HD
+http://177.93.45.108:8000/play/a00j/index.m3u8
+#EXTINF:-1,IVC
+http://177.93.45.108:8000/play/a01g/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://177.93.45.108:8000/play/a010/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://177.93.45.108:8000/play/a01e/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://177.93.45.108:8000/play/a00s/index.m3u8
+#EXTINF:-1,SCIENCE
+http://177.93.45.108:8000/play/a018/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://177.93.45.108:8000/play/a01c/index.m3u8
+#EXTINF:-1,Sony HD
+http://177.93.45.108:8000/play/a00l/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://177.93.45.108:8000/play/a00x/index.m3u8
+#EXTINF:-1,TELEAMIGA
+http://177.93.45.108:8000/play/a01k/index.m3u8
+#EXTINF:-1,TELEISLAS
+http://177.93.45.108:8000/play/a01i/index.m3u8
+#EXTINF:-1,TURBO
+http://177.93.45.108:8000/play/a015/index.m3u8
+#EXTINF:-1,TV+ HD
+http://177.93.45.108:8000/play/a005/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://177.93.45.108:8000/play/a00c/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://177.93.45.108:8000/play/a00m/index.m3u8
+10 personas reaccionaron 
 #EXTINF:-1,Animal Planet HD
 http://181.224.201.34:5577/play/a00r/index.m3u8
 #EXTINF:-1,Cartoon Network HD
