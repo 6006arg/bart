@@ -1,4 +1,71 @@
-#EXTM3U
+#EXTINF:-1,AMC HD
+http://168.181.8.150:48000/play/a011/index.m3u8
+#EXTINF:-1,Animal Planet (43.3)
+http://168.181.8.150:48000/play/a02f/index.m3u8
+#EXTINF:-1,CNNE
+http://168.181.8.150:48000/play/a4s3/index.m3u8
+#EXTINF:-1,Cartoon Network (23)
+http://168.181.8.150:48000/play/a025/index.m3u8
+#EXTINF:-1,Cinecanal (47.1)
+http://168.181.8.150:48000/play/a024/index.m3u8
+#EXTINF:-1,Clover (47.3)
+http://168.181.8.150:48000/play/a02c/index.m3u8
+#EXTINF:-1,DHE HD
+http://168.181.8.150:48000/play/a00p/index.m3u8
+#EXTINF:-1,Discovery H&H (43.4)
+http://168.181.8.150:48000/play/a003/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://168.181.8.150:48000/play/a002/index.m3u8
+#EXTINF:-1,Disney HD
+http://168.181.8.150:48000/play/a02d/index.m3u8
+#EXTINF:-1,Disney Jr.
+http://168.181.8.150:48000/play/as2/index.m3u8
+#EXTINF:-1,El Gourmet HD
+http://168.181.8.150:48000/play/a009/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://168.181.8.150:48000/play/a005/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://168.181.8.150:48000/play/a00u/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://168.181.8.150:48000/play/a00q/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://168.181.8.150:48000/play/a00r/index.m3u8
+#EXTINF:-1,History Channel HD
+http://168.181.8.150:48000/play/a02b/index.m3u8
+#EXTINF:-1,ID HD
+http://168.181.8.150:48000/play/a008/index.m3u8
+#EXTINF:-1,IPe HD
+http://168.181.8.150:48000/play/ipe/index.m3u8
+#EXTINF:-1,LOCAL 1 MUSICA REGUETON
+http://168.181.8.150:48000/play/a50s/index.m3u8
+#EXTINF:-1,LOCAL 4 CANAL DE LA MUSICA
+http://168.181.8.150:48000/play/a01/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://168.181.8.150:48000/play/a00h/index.m3u8
+#EXTINF:-1,NATIVA TV
+http://168.181.8.150:48000/play/a00s/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://168.181.8.150:48000/play/a00b/index.m3u8
+#EXTINF:-1,QUATRO TV
+http://168.181.8.150:48000/play/quatro/index.m3u8
+#EXTINF:-1,RETRO PLUS TV
+http://168.181.8.150:48000/play/a10a/index.m3u8
+#EXTINF:-1,RETRO PLUS TV 2
+http://168.181.8.150:48000/play/a02k/index.m3u8
+#EXTINF:-1,RETRO PLUS TV 3
+http://168.181.8.150:48000/play/a02l/index.m3u8
+#EXTINF:-1,STAR CHANNEL (45.1)
+http://168.181.8.150:48000/play/a00x/index.m3u8
+#EXTINF:-1,TELELIMA
+http://168.181.8.150:48000/play/a00w/index.m3u8
+#EXTINF:-1,TV Peru 7.3
+http://168.181.8.150:48000/play/tvperu73/index.m3u8
+#EXTINF:-1,TV Peru HD
+http://168.181.8.150:48000/play/tvperu/index.m3u8
+#EXTINF:-1,TV Unsa
+http://168.181.8.150:48000/play/tvunsa/index.m3u8
+#EXTINF:-1,Vision Sur HD
+http://168.181.8.150:48000/play/visionsur/index.m3u8
 #EXTINF:-1,A&E HD
 http://177.93.45.108:8000/play/a00k/index.m3u8
 #EXTINF:-1,AMC HD
