@@ -1,29 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 🇦🇷
-http://45.190.13.50:8002/play/a01f/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 🇦🇷
-http://45.190.13.50:8002/play/a01k/index.m3u8
-
 #EXTINF:-1 group-title="DEPORTES",ESPN HD 🇦🇷
 http://181.119.66.30:8000/play/02/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",ESPN HD 🇦🇷
 http://181.78.1.158:8000/play/a01u/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 🇦🇷
-http://181.78.1.158:8000/play/a01v/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 🇦🇷
-http://181.78.1.158:8000/play/a01j/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 🇦🇷
-http://181.78.1.158:8000/play/a01k/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS 2 🇦🇷
-http://181.78.1.158:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", TIGO SPORTS 🇦🇷
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -32,9 +14,6 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://ythls.onrender.com/channel/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
 
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png" group-title="DEPORTES",TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png" group-title="DEPORTES",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" group-title="DEPORTES", FS PREMIUM
@@ -51,6 +30,9 @@ http://200.41.79.165:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.419149045_Espn2.png.7bc309b12622e0289e3a009e551e9798.png"group-title="DEPORTES",ESPN 2 
 http://200.41.79.165:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png" group-title="DEPORTES",TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox Sports2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73935_dark_360w_270h.png" group-title="DEPORTES",Fox Sports2 HD
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
