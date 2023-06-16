@@ -4,9 +4,6 @@
 #EXTINF:-1 group-title="DEPORTES",ESPN HD 🇦🇷
 http://181.119.66.30:8000/play/02/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",ESPN HD 🇦🇷
-http://181.78.1.158:8000/play/a01u/index.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", TIGO SPORTS 🇦🇷
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
@@ -15,9 +12,6 @@ https://ythls.onrender.com/channel/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
 
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png" group-title="DEPORTES",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" group-title="DEPORTES", FS PREMIUM
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Xn1UPLB.png"group-title="DEPORTES",ESPN 4 
 http://200.41.79.165:8000/play/a05r/index.m3u8
@@ -40,9 +34,6 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87430_dark_360w_270h.png" group-title="DEPORTES",DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" group-title="DEPORTES",CLARO SPORTS
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/250?cb=20200106171029&path-prefix=es" group-title="DEPORTES",Fox Sports 1 MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
@@ -57,9 +48,6 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="DEPORTES",DEPORTV
 http://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
@@ -103,9 +91,6 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1  group-title="DEPORTES", FOX SPORTS 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
 
-#EXTINF:-1  group-title="DEPORTES", Fox Sports Premium
-http://45.190.13.50:8002/play/a002/index.m3u8
-
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg"  group-title="DEPORTES",Futv HD
 http://181.189.243.254:8000/play/a0t3/index.m3u8
 
@@ -136,21 +121,8 @@ http://45.228.234.162:24000/play/a08p/index.m3u8
 #EXTINF:-1 tvg-chno="718" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",Fox Sports 3 HD
 http://45.228.234.162:24000/play/a07u/index.m3u8
 
-
-#EXTINF:-1 tvg-chno="728" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1608.png"  group-title="DEPORTES",Fox Sports 2 MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.holamujer.cl/wp-content/uploads/2020/06/20-FOX-SPORTS-PREMIUM-768x530.png"  group-title="DEPORTES",Fox Sports Premium MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
-
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg"  group-title="DEPORTES",Sky Sports Liga Española 🇺🇸
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",DeporTV 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", ASTRO_CRICKET
-http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
 
 #EXTINF:-1  group-title="DEPORTES", Match!_Country HD
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
