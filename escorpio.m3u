@@ -7,10 +7,7 @@ http://181.119.66.30:8000/play/03/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD 🇦🇷
 http://181.119.66.30:8000/play/a002/index.m3u8
 
-#EXTINF:-1, M+ LaLigaTV 🇪🇸
-http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
-
-#EXTINF:-1, CANAL + 2 POLONIA 🇵🇱
+EXTINF:-1, CANAL + 2 POLONIA 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
 
 #EXTINF:-1, Eleven 6 HD 🇵🇹
@@ -18,9 +15,6 @@ http://conexaoonline.top:80/IVONE123/IVONE321/260998
 
 #EXTINF:-1, Eleven 5 HD 🇵🇹
 http://splaytv.io:80/Marcelo984258235/hbgy45df/140394
-
-#EXTINF:-1, Eleven 5 HD 🇵🇹
-http://pythontv.net:8789/luis12/pMQuMbm/14897
 
 #EXTINF:-1, BEIN SPORTS 3 🇶🇦
 http://line.365tv.xyz:8060/live/HNf5n8njq9FK/betasee4j8Gq/90156.ts
@@ -46,7 +40,7 @@ http://hidra.live:80/zvwfwyhz/z7680ifYPc/303757
 #EXTINF:-1, SKY SPORTS 🇲🇽
 http://31.42.185.216:8000/robertomartinez/MRCUsKskoh/140952
 
-#EXTINF:-1,Setanta Ukraine + 🇺🇦
+#EXTINF:-1, Setanta Ukraine + 🇺🇦
 http://95.67.12.89:9013
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
