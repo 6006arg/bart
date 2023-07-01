@@ -1,158 +1,26 @@
-#EXTM3U
+#EXTM3U  
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 group-title="DEPORTES",ESPN HD 🇦🇷
-http://181.119.66.30:8000/play/02/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 group-title="DEPORTES", TIGO SPORTS 🇦🇷
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080451967829327872/SS4LrhOa_400x400.jpg" group-title="DEPORTES", AMERICA SPORTS
-https://ythls.onrender.com/channel/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png" group-title="DEPORTES",TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-3_m.png" group-title="DEPORTES",ESPN 3 
-http://191.102.90.97:8000/play/a079/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png" group-title="DEPORTES",TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87430_dark_360w_270h.png" group-title="DEPORTES",DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="DEPORTES",DEPORTV
-http://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png"group-title="DEPORTES",GOLPE DURO
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099463/27b77ba0-7811-4145-95bc-b5fde8ff2300.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.picng.com/upload/mma/png_mma_59265.png"group-title="DEPORTES",MMA
-https://alchimie-mmatv-samsung.amagi.tv/playlist540_p.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/red-bull-tv.png"group-title="DEPORTES",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jTpWsm6/tennis.jpg" tvg-group="DEPORTES", CANAL DE TENIS
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sportstv.com.tr/assets/images/template/sportstv-live.png"group-title="DEPORTES",SPORT TV TURK
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1 tvg-chno="701" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg"  group-title="DEPORTES",Futv HD
-http://181.189.243.254:8000/play/a0t3/index.m3u8
-
-#EXTINF:-1 tvg-chno="707" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png"  group-title="DEPORTES",TD + HD 
-http://181.189.243.254:8000/play/a0o9/index.m3u8
-
-#EXTINF:-1 tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png"  group-title="DEPORTES",TD + 2 HD
-http://181.189.243.254:8000/play/a0oa/index.m3u8
-
-#EXTINF:-1 tvg-chno="710" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN HD
-http://45.228.234.162:24000/play/a07r/index.m3u8
-
-#EXTINF:-1 tvg-chno="711" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN 2 HD
-http://45.228.234.162:24000/play/a07t/index.m3u8
-
-#EXTINF:-1 tvg-chno="712" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN 3 HD
-http://45.228.234.162:24000/play/a07s/index.m3u8
-
-#EXTINF:-1 tvg-chno="714" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN 4 HD
-http://45.228.234.162:24000/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-chno="715" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",ESPN +
-http://45.228.234.162:24000/play/a030/index.m3u8
-
-#EXTINF:-1 tvg-chno="718" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",Fox Sports 3 HD
-http://45.228.234.162:24000/play/a07u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"  group-title="DEPORTES",DeporTV 🇦🇷
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", Match!_Country HD
-https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", Viasat_Sport_HD+
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", TVRI_SPORT HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", RTV SPORT 🇸🇲
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", Fox Sports Premium MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", SPORTS TV 🇹🇷
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", FIGHT BOX HD
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", X SPORT
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", X SPORT PLUS
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", ESPN 🇦🇷
-http://191.102.90.97:8000/play/a08b/index.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", MAX SPORT 4 🇧🇬
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
-
-#EXTINF:-1  group-title="DEPORTES", ESPN DEPORTES 🇺🇸 
-http://likea8bitboss.xyz:80/tquad/6305812479/5935
-
-#EXTINF:-1  group-title="DEPORTES", PRIMA SPORT 1 🇷🇴
-http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
-
-#EXTINF:-1  group-title="DEPORTES", SUPERSPORT LALIGA 🇿🇦
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/194358
-
-#EXTINF:-1  group-title="DEPORTES", ARENA SPORT 6 🇭🇷
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10961
-
-#EXTINF:-1  group-title="DEPORTES", S SPORT 🇹🇷
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1753
-
-#EXTINF:-1  group-title="DEPORTES", S SPORT 2 🇹🇷
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10167
-
-#EXTINF:-1  group-title="DEPORTES", SPILER 2 🇭🇺
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/77769
-
-#EXTINF:-1  group-title="DEPORTES", AYASSPORT 🇶🇦
-https://af.ayassport.ir/hls2/aiosport.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", BEIN SPORTS 1 🇶🇦
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/100
-
-#EXTINF:-1  group-title="DEPORTES", A SPORTS 🇮🇳
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295025
-
-#EXTINF:-1  group-title="DEPORTES", DAZN 1 BAR 🇩🇪
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
-
-#EXTINF:-1  group-title="DEPORTES", DAZN 2 BAR 🇩🇪
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
-
-#EXTINF:-1  group-title="DEPORTES", CBC SPORTS 🇦🇿
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290202
-
-#EXTINF:-1  group-title="DEPORTES", K1 SPORT 🇦🇱
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1863
-
-#EXTINF:-1  group-title="DEPORTES", SUPERSSPORT 2 🇦🇱
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1312
 
 
 
